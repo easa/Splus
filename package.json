@@ -1,0 +1,27 @@
+{
+  "name": "splus",
+  "version": "1.0.0",
+  "description": "Study more in less time",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easa/Splus.git"
+  },
+  "keywords": [
+    "study",
+    "Schedule",
+    "program"
+  ],
+  "author": "easa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easa/Splus/issues"
+  },
+  "homepage": "https://github.com/easa/Splus#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
