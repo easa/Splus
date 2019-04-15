@@ -1,2 +1,4 @@
 # Splus
-Study smart, like a pro. learn more in less time.
+Study smart, like a pro. 
+
+Learn more in less time.
